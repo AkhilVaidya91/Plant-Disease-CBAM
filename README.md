@@ -1,4 +1,4 @@
-# Corn Crop Disease Prediction Model - README
+# Corn Crop Disease Prediction Model
 
 ## Introduction
 
