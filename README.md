@@ -1,7 +1,9 @@
 # Corn Crop Disease Prediction Model
 
 Reference Paper (Springer): Improving Deep Learning-based Plant Disease Classification with Attention Mechanism
+```
 Link: https://link.springer.com/article/10.1007/s10343-022-00796-y
+```
 
 ## Introduction
 
